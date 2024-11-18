@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ahmadawais2450@gmail.com**
 
-- 📄 Know about my experiences [ahmadawais.netlify.com](ahmadawais.netlify.com)
+- 📄 Know about my experiences [ahmadawais.netlify.app](ahmadawais.netlify.app)
 
 - ⚡ Fun fact **I am good at interpersonal skills which help me while collaborating with my client**
 
